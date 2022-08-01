@@ -48,7 +48,7 @@ human_in_lift = True
 # LIFT STATE
 
 # RENDER FRAME
-system("cls")
+#system("cls")
 
 if building_roof:
     print("---|-----|----")
